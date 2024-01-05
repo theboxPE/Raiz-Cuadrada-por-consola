@@ -19,6 +19,7 @@ Console.WriteLine();
 
 
 div = cuadr2/num2;
+
 Console.WriteLine($"La division de {cuadr2} entre {num2} es:" + div);
 Console.WriteLine();
 
